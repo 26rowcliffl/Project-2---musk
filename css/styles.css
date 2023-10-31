@@ -1,0 +1,47 @@
+body{
+    background-color:blue;
+    font-family:arial;
+    font-size:1.25rem;
+    color:#e1ceb5;
+}
+
+a:link{
+    color:#e1ceb5;
+
+}
+a:visited{
+    color:#e1ceb5;
+}
+
+a:hover{
+    color:#ffe7cc;
+}
+
+.profileAlignment{
+    padding-left:20%;
+    padding-right:20%;
+}
+
+.centertable{
+    Margin-left:auto;
+    Margin-right:auto;
+}
+
+.linkcells{
+    padding:10px;
+}
+
+.infoAlignmentn{
+    Margin-left:auto;
+    Margin-left:auto;
+}
+
+.headOneAlign{
+    Text-align:center;
+}
+
+.businesslist{
+    Height:100px;
+    Width:100px;
+    Border radius:50%;
+}
